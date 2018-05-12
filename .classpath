@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/360安全浏览器下载/Kcauldron1.7.10_20170218184535/Kcauldron1.7.10/bin/pw/prok/KCauldron/1.7.10-1614.200/KCauldron-1.7.10-1614.200.jar"/>
+	<classpathentry kind="lib" path="D:/000/[1.7.2][MCPC]纯净基础整合/[1.7.2][MCPC]纯净基础整合/plugins/[金钱]Vault.jar"/>
+	<classpathentry kind="lib" path="D:/000/[1.8.00]craftbukkit by boge/plugins/Team.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

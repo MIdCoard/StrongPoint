@@ -1,0 +1,5 @@
+name: StrongPoint
+main: com.focess.strongpoint.StrongPoint
+version: 1.0
+author: why
+depend: [Team,Vault]
